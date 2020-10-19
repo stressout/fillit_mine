@@ -1,0 +1,4 @@
+	            if (poreshatel(map, piece->next, size_map))
+                    return (1);
+	            else
+	                put_piece_letter(map, piece, '.');
